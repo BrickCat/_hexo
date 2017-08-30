@@ -77,7 +77,7 @@ toc:
   list_number: true  # 是否显示数字排序
 
 # 文章页留言内容，hexo中所有变量及辅助函数等均可调用，具体请查阅 hexo.io
-postMessage: <p style="font-size:16px;">欢迎大家去 <a href="https://brickcat.club" target="_blank" style="color:red;">搬砖猫</a> 社区注册互动，那里是黑客和健身热爱者的聚集地哪里有你需要的一切。</p>
+postMessage: <p style="font-size:16px;">欢迎大家去 <a href="https://brickcat.club" target="_blank" style="color:red;">搬砖猫</a> 社区注册互动，那里是黑客和健身热爱者的聚集地哪里有你需要的一切。</p><br/>本文首发于 毛子坤的 博客（ http://brickcat.top ），版权所有，侵权必究。
 #这里可以写作者留言，标签和 hexo 中所有变量及辅助函数等均可调用，示例：<a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" target="_blank" rel="external"><%- page.permalink.replace(/index\.html$/, '') %></a>
 
 # 站长统计，如要开启，输入CNZZ站点id，如 cnzz: 1255152447
