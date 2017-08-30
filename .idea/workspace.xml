@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/themes/indigo/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="287">
-              <caret line="79" column="196" lean-forward="false" selection-start-line="79" selection-start-column="196" selection-end-line="79" selection-end-column="196" />
+              <caret line="79" column="173" lean-forward="false" selection-start-line="79" selection-start-column="173" selection-end-line="79" selection-end-column="173" />
               <folding />
             </state>
           </provider>
@@ -843,12 +843,12 @@
       <workItem from="1503984781183" duration="61000" />
       <workItem from="1503985391515" duration="11074000" />
       <workItem from="1503999555035" duration="637000" />
-      <workItem from="1504054785248" duration="19557000" />
+      <workItem from="1504054785248" duration="19743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31834000" />
+    <option name="totallyTimeSpent" value="32020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1155,7 +1155,7 @@
     <entry file="file://$PROJECT_DIR$/themes/indigo/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
-          <caret line="79" column="196" lean-forward="false" selection-start-line="79" selection-start-column="196" selection-end-line="79" selection-end-column="196" />
+          <caret line="79" column="173" lean-forward="false" selection-start-line="79" selection-start-column="173" selection-end-line="79" selection-end-column="173" />
           <folding />
         </state>
       </provider>
