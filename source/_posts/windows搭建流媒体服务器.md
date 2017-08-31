@@ -1,8 +1,8 @@
 ---
 title: windows搭建流媒体服务器
 date: 2017-08-30 11:42:59
-tags: [nginx,ffmpeg,hls]
-categories: [服务器搭建,环境配置]
+tags: [nginx,ffmpeg,hls,server]
+categories: [服务器,环境配置]
 ---
 # 理论
 ## 什么是流媒体服务器
