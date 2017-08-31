@@ -104,3 +104,8 @@ jsonContent:
       type: atom
       path: atom.xml
       limit: 0
+
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
