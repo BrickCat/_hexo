@@ -35,7 +35,7 @@ categories: 服务器
 ![](windows搭建Git服务器/20170831123257.png)
 
 #### 创建Repositories
-
+- 给Repositories加用户
 ![](windows搭建Git服务器/20170831123619.png)
 
 创建完Repositories要给它添加用户的，否则访问不了。注意：**管理员账户并不能访问这个Repositories**。
