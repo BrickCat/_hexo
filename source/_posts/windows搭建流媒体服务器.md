@@ -55,7 +55,7 @@ categories: [服务器,环境配置]
    然后在`video/x-msvideo                       avi;`添加`video/MP2T 							  ts;`
 - 打开`nginx.conf`文件，（最好先备份一下）
     下面就是如何配置`Nginx`的代码
-    ``` javascript
+    ```Nginx
     #user  nobody;
     worker_processes  1;#要开启的进程数 一般等于cpu的总核数 其实一般情况下开4个或8个就可 我开2个
     
