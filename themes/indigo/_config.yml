@@ -26,8 +26,12 @@ menu:
     url: https://brickcat.club
     target: _blank
   houzz:
-    text: ITBC Admin（开发中）
+    text: ITBC Admin(未完)
     url: http://brickcat.cn
+    target: _blank
+  deviantart:
+    text: Ant-Desgin(学习)
+    url: http://icomic.xin
     target: _blank
   link:
       text: 关于
