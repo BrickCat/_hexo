@@ -25,6 +25,10 @@ menu:
     text: 搬砖猫
     url: https://brickcat.club
     target: _blank
+  houzz:
+    text: ITBC Admin（开发中）
+    url: http://brickcat.cn
+    target: _blank
   link:
       text: 关于
       url: /about
