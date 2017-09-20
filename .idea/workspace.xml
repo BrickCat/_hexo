@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7c530bf7-72d0-45cb-aec9-7cc800a30b3b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/indigo/_config.yml" afterPath="$PROJECT_DIR$/themes/indigo/_config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/../ideaProject/_blade/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -855,7 +854,7 @@
       <workItem from="1504249694296" duration="3164000" />
       <workItem from="1505869543879" duration="3309000" />
       <workItem from="1505884403531" duration="634000" />
-      <workItem from="1505885126856" duration="144000" />
+      <workItem from="1505885126856" duration="226000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1504156830763</created>
@@ -878,11 +877,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505884928461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1505885285743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1505885285743</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53766000" />
+    <option name="totallyTimeSpent" value="53848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
