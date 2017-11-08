@@ -9,7 +9,7 @@ categories: springboot framework
 
 在`springboot`整合`shiro`的时候session总是过期，往往是刚刚登录没一两分钟就又要重新登陆。网上查了很多资料
 说是可以设置session的过期时间`server.session.timeout`，无论你设置成多少都无效，后来才知道此session和shiro的session根本就是两回事。
-
+<!-- more -->
 ### 解决办法
 下边我们就来看看在springboot中如何设置shiro的session过期时间。废话不多说直接上代码吧！
 
