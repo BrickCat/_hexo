@@ -30,7 +30,7 @@ menu:
       url: /about
 
 # 你的头像url
-avatar: /img/avatar.jpg
+avatar: /img/avatar.png
 # avatar link
 avatar_link: /
 # 头像背景图
@@ -81,7 +81,7 @@ toc:
   list_number: true  # 是否显示数字排序
 
 # 文章页留言内容，hexo中所有变量及辅助函数等均可调用，具体请查阅 hexo.io
-postMessage: <p style="font-size:16px;">欢迎大家去 <a href="https://brickcat.club" target="_blank" style="color:red;">搬砖猫</a> 社区注册互动，那里是黑客和健身热爱者的聚集地，那里有你需要的一切。</p><br/>本文首发于 毛子坤的博客（ http://brickcat.top ），版权所有，侵权必究。
+postMessage: <p style="font-size:16px;">欢迎大家去 <a href="https://githink.cn" target="_blank" style="color:red;">信客</a> 社区注册互动，那里是黑客和健身热爱者的聚集地，那里有你需要的一切。</p><br/>本文首发于 毛子坤的博客（ http://blog.githink.cn ），版权所有，侵权必究。
 #这里可以写作者留言，标签和 hexo 中所有变量及辅助函数等均可调用，示例：<a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" target="_blank" rel="external"><%- page.permalink.replace(/index\.html$/, '') %></a>
 
 # 站长统计，如要开启，输入CNZZ站点id，如 cnzz: 1255152447
@@ -128,7 +128,7 @@ canonical: false
 since_year: 2017
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
-about: 一个热爱健身的IT工作者。
+about: 一个热爱生活的IT工作者。
 
 # “不蒜子”访问量统计，详见 http://ibruce.info/2015/04/04/busuanzi/
 visit_counter:
