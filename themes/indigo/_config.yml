@@ -22,16 +22,8 @@ menu:
     url: https://github.com/BrickCat
     target: _blank
   paw:
-    text: 搬砖猫
-    url: https://brickcat.club
-    target: _blank
-  houzz:
-    text: ITBC Admin(未完)
-    url: http://brickcat.cn
-    target: _blank
-  deviantart:
-    text: Ant-Desgin(学习)
-    url: http://icomic.xin
+    text: gogs
+    url: http://code.githink.cn
     target: _blank
   link:
       text: 关于
