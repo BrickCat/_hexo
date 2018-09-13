@@ -5,14 +5,14 @@
 # Site
 title: 信客博客
 subtitle: githink.cn
-description: 健身 IT Nginx FFmpeg Fitness Java WeChat Android Web Html Video Js Css Ps
+description: 健身 IT Nginx FFmpeg Fitness Java WeChat Android Web Html Video Js Css Ps Kubernetes Docker
 author: 信客
 language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.githink.cn
+url: https://blog.githink.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

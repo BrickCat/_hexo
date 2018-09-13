@@ -13,10 +13,10 @@ menu:
     url: /
   archives:
     text: 归档
-    url: /archives
+    url: https://blog.githink.cn/archives
   server:
     text: 分类
-    url: /categories
+    url: https://blog.githink.cn/categories
   github:
     text: github
     url: https://github.com/githinkcn
@@ -81,7 +81,7 @@ toc:
   list_number: true  # 是否显示数字排序
 
 # 文章页留言内容，hexo中所有变量及辅助函数等均可调用，具体请查阅 hexo.io
-postMessage: <p style="font-size:16px;">欢迎大家去 <a href="https://githink.cn" target="_blank" style="color:red;">信客</a> 社区注册互动，那里是黑客和健身热爱者的聚集地，那里有你需要的一切。</p><br/>本文首发于 毛子坤的博客（ http://blog.githink.cn ），版权所有，侵权必究。
+postMessage: <p style="font-size:16px;">欢迎大家去 <a href="https://githink.cn" target="_blank" style="color:red;">信客</a> 社区注册互动，那里是黑客和健身热爱者的聚集地，那里有你需要的一切。</p><br/>本文首发于 信客博客（ http://blog.githink.cn ），版权所有，侵权必究。
 #这里可以写作者留言，标签和 hexo 中所有变量及辅助函数等均可调用，示例：<a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" target="_blank" rel="external"><%- page.permalink.replace(/index\.html$/, '') %></a>
 
 # 站长统计，如要开启，输入CNZZ站点id，如 cnzz: 1255152447
@@ -147,4 +147,4 @@ cdn: true
 lightbox: true
 
 # icp备案号  ICP_license: 京ICP备1234556号-1
-ICP_license: false
+ICP_license: 鲁ICP备18040779号
