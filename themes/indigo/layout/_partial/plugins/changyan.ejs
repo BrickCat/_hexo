@@ -1,0 +1,12 @@
+<% if (theme.changyan){ %>
+    <div id="SOHUCS" sid="请将此处替换为配置SourceID的语句"></div>
+    <script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+    <script type="text/javascript">
+        document.getElementById("SOHUCS").setAttribute("sid", new Date().getTime());
+        window._config = { showScore: true };
+        window.changyan.api.config({
+            appid: 'cytOzJShe',
+            conf: 'prod_6843d0b59b700c880a61f3deb85de2b2'
+        });
+    </script>
+<% } %>

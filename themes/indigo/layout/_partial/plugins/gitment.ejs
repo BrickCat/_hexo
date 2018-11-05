@@ -5,11 +5,12 @@
     <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
     <script>
         var gitment = new Gitment({
-            owner: '<%- theme.gitment.owner %>',
-            repo: '<%- theme.gitment.repo %>',
+            id: ''+new Date().getTime()+'',
+            owner: 'githinkcn',
+            repo: 'githinkcn.github.io',
             oauth: {
-                client_id: '<%- theme.gitment.client_id %>',
-                client_secret: '<%- theme.gitment.client_secret %>',
+                client_id: 'adf26355069e1343d652',
+                client_secret: '0224bf8e02ebe57fbc6980ebc19118c8f3e75a45',
             },
         })
         gitment.render('comments')
