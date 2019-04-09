@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c530bf7-72d0-45cb-aec9-7cc800a30b3b" name="Default" comment="1">
-      <change afterPath="$PROJECT_DIR$/source/_posts/SpringCloud系列（一）服务注册与发现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/indigo/layout/_partial/plugins/changyan.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Spring-cloud使用自定义注解记录请求日志.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/indigo/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/indigo/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/indigo/layout/_partial/plugins/gitment.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/indigo/layout/_partial/plugins/gitment.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/indigo/layout/_partial/post.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/indigo/layout/_partial/post.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/indigo/layout/_partial/post/comment.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/indigo/layout/_partial/post/comment.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/indigo/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/indigo/source/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../ideaProject/_blade/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,73 +12,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1098250910">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="CNAME" value="3" />
-          <entry key="ejs" value="6" />
-          <entry key="html" value="6" />
-          <entry key="jpg" value="6" />
-          <entry key="json" value="2" />
-          <entry key="md" value="23" />
-          <entry key="png" value="6" />
-          <entry key="xml" value="1" />
-          <entry key="yml" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="6" />
-          <entry key="Image" value="12" />
-          <entry key="JSON" value="2" />
-          <entry key="Markdown" value="23" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="XML" value="1" />
-          <entry key="YAML" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="CNAME" value="34" />
-          <entry key="ejs" value="85" />
-          <entry key="html" value="4" />
-          <entry key="md" value="998" />
-          <entry key="yml" value="206" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="4" />
-          <entry key="Markdown" value="987" />
-          <entry key="PLAIN_TEXT" value="119" />
-          <entry key="YAML" value="217" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/SpringCloud系列（一）服务注册与发现.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Uni-App-集成个推.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="370">
-                <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <first_editor relative-caret-position="180">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
                 <folding>
-                  <element signature="e#135#136#0" expanded="true" />
-                  <element signature="e#209#210#0" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#984#985#0" expanded="true" />
+                  <element signature="e#1016#1017#0" expanded="true" />
+                  <element signature="e#1065#1066#0" expanded="true" />
+                  <element signature="e#1107#1108#0" expanded="true" />
+                  <element signature="e#1138#1139#0" expanded="true" />
+                  <element signature="e#1166#1167#0" expanded="true" />
+                  <element signature="e#1207#1208#0" expanded="true" />
+                  <element signature="e#1241#1242#0" expanded="true" />
+                  <element signature="e#1274#1275#0" expanded="true" />
+                  <element signature="e#1304#1305#0" expanded="true" />
+                  <element signature="e#1349#1350#0" expanded="true" />
+                  <element signature="e#1387#1388#0" expanded="true" />
+                  <element signature="e#1421#1422#0" expanded="true" />
+                  <element signature="e#1452#1453#0" expanded="true" />
+                  <element signature="e#1499#1500#0" expanded="true" />
+                  <element signature="e#1539#1540#0" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -93,47 +46,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/Spring-cloud-config-server-使用本地配置文件.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Kuberbetes-CI-CD-持续集成Spring-Cloud.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="120">
-                <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="26" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/Centos-7-搭建-Docker-私服.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-780">
-                <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="25" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/Docker-可视化-Portainer-io配置.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="25" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/post传参.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="13" />
+                <caret line="4" column="10" selection-start-line="4" selection-end-line="4" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -199,14 +116,10 @@
         <option value="$PROJECT_DIR$/themes/indigo/source/index.html" />
         <option value="$PROJECT_DIR$/themes/indigo/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/SpringCloud系列（一）服务注册与发现.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Spring-cloud使用自定义注解记录请求日志.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Uni-App-集成个推.md" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -214,15 +127,6 @@
         <option name="userSettingsFile" value="C:\work\apache-maven-3.2.5\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-      <path value="$PROJECT_DIR$/themes/indigo/package.json" />
-    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="399" />
@@ -238,7 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,13 +176,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541402133856" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554802366643" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
@@ -528,7 +432,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -615,7 +519,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -623,16 +527,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
@@ -694,7 +598,10 @@
       <workItem from="1536892290573" duration="69000" />
       <workItem from="1538985383979" duration="594000" />
       <workItem from="1540972904816" duration="630000" />
-      <workItem from="1541398916461" duration="3179000" />
+      <workItem from="1541398916461" duration="3837000" />
+      <workItem from="1550553281710" duration="8656000" />
+      <workItem from="1550627651291" duration="586000" />
+      <workItem from="1554802095929" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1504156830763</created>
@@ -808,17 +715,24 @@
       <option name="project" value="LOCAL" />
       <updated>1536809732961</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="1">
+      <created>1541402153330</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1541402153330</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88394000" />
+    <option name="totallyTimeSpent" value="98549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="399" y="11" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -834,13 +748,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48290598" visible="true" weight="0.32218507" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48290598" visible="true" weight="0.32182628" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.517094" side_tool="true" weight="0.32620922" />
       <window_info anchor="bottom" id="Messages" order="9" visible="true" weight="0.3295838" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295838" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="12" />
       <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -893,18 +809,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/windows搭建Git服务器/20170831123257.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ideaProject/_blade/pom.xml" />
     <entry file="file://$PROJECT_DIR$/source/photos/index.md" />
     <entry file="file://$PROJECT_DIR$/source/template/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -996,16 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/springboot-shiro-session.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Semantic UI.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1059,15 +958,9 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/Kuberbetes-CI-CD-持续集成Spring-Cloud/微信图片_20180913111445.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/atom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/content.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/CNAME" />
+    <entry file="file://$PROJECT_DIR$/public/atom.xml" />
+    <entry file="file://$PROJECT_DIR$/public/content.json" />
     <entry file="file://$PROJECT_DIR$/themes/indigo/layout/_partial/post/comment.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1115,16 +1008,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Kuberbetes-CI-CD-持续集成Spring-Cloud.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1350">
-            <caret line="45" selection-start-line="45" selection-end-line="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1132,16 +1015,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25650">
-          <caret line="855" selection-start-line="855" selection-end-line="855" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/about/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/about/index.html" />
     <entry file="file://$PROJECT_DIR$/source/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1152,11 +1027,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/SpringCloud系列（一）服务注册与发现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Spring-cloud-config-server-使用本地配置文件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="26" />
+          <first_editor relative-caret-position="90">
+            <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/springboot-shiro-session.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -1165,7 +1060,7 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/Centos-7-搭建-Docker-私服.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-780">
+          <first_editor relative-caret-position="120">
             <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="25" />
           </first_editor>
           <second_editor />
@@ -1192,14 +1087,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/SpringCloud系列（一）服务注册与发现.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/Spring-cloud使用自定义注解记录请求日志.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="370">
-            <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <first_editor relative-caret-position="3300">
+            <caret line="110" column="1" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Kuberbetes-CI-CD-持续集成Spring-Cloud.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="4" column="10" selection-start-line="4" selection-end-line="4" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Uni-App-集成个推.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             <folding>
-              <element signature="e#135#136#0" expanded="true" />
-              <element signature="e#209#210#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#984#985#0" expanded="true" />
+              <element signature="e#1016#1017#0" expanded="true" />
+              <element signature="e#1065#1066#0" expanded="true" />
+              <element signature="e#1107#1108#0" expanded="true" />
+              <element signature="e#1138#1139#0" expanded="true" />
+              <element signature="e#1166#1167#0" expanded="true" />
+              <element signature="e#1207#1208#0" expanded="true" />
+              <element signature="e#1241#1242#0" expanded="true" />
+              <element signature="e#1274#1275#0" expanded="true" />
+              <element signature="e#1304#1305#0" expanded="true" />
+              <element signature="e#1349#1350#0" expanded="true" />
+              <element signature="e#1387#1388#0" expanded="true" />
+              <element signature="e#1421#1422#0" expanded="true" />
+              <element signature="e#1452#1453#0" expanded="true" />
+              <element signature="e#1499#1500#0" expanded="true" />
+              <element signature="e#1539#1540#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
